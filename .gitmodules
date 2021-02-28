@@ -155,6 +155,10 @@
 	path = SummarizedExperiment
 	url = https://github.com/bioconductor/summarizedexperiment
 	shallow = true
+[submodule "Summix"]
+	path = Summix
+	url = https://github.com/bioconductor/summix
+	shallow = true
 [submodule "VariantExperiment"]
 	path = VariantExperiment
 	url = https://github.com/bioconductor/variantexperiment
