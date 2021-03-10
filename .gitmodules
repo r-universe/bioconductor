@@ -27,14 +27,6 @@
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
 	shallow = true
-[submodule "BiocCheck"]
-	path = BiocCheck
-	url = https://github.com/bioconductor/bioccheck
-	shallow = true
-[submodule "BiocDockerManager"]
-	path = BiocDockerManager
-	url = https://github.com/bioconductor/biocdockermanager
-	shallow = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
 	url = https://github.com/bioconductor/biocfilecache
@@ -83,10 +75,6 @@
 	path = GDSArray
 	url = https://github.com/bioconductor/gdsarray
 	shallow = true
-[submodule "GenomeInfoDb"]
-	path = GenomeInfoDb
-	url = https://github.com/bioconductor/genomeinfodb
-	shallow = true
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
 	url = https://github.com/bioconductor/genomicalignments
@@ -102,18 +90,6 @@
 [submodule "GenomicRanges"]
 	path = GenomicRanges
 	url = https://github.com/bioconductor/genomicranges
-	shallow = true
-[submodule "HCABrowser"]
-	path = HCABrowser
-	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-[submodule "HCAExplorer"]
-	path = HCAExplorer
-	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-[submodule "HCAMatrixBrowser"]
-	path = HCAMatrixBrowser
-	url = https://github.com/bioconductor/hcamatrixbrowser
 	shallow = true
 [submodule "HDF5Array"]
 	path = HDF5Array
@@ -170,4 +146,28 @@
 [submodule "zlibbioc"]
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
+	shallow = true
+[submodule "GenomeInfoDb"]
+	path = GenomeInfoDb
+	url = https://github.com/bioconductor/genomeinfodb
+	shallow = true
+[submodule "BiocCheck"]
+	path = BiocCheck
+	url = https://github.com/bioconductor/bioccheck
+	shallow = true
+[submodule "HCABrowser"]
+	path = HCABrowser
+	url = https://github.com/bioconductor/hcabrowser
+	shallow = true
+[submodule "HCAExplorer"]
+	path = HCAExplorer
+	url = https://github.com/bioconductor/hcabrowser
+	shallow = true
+[submodule "BiocDockerManager"]
+	path = BiocDockerManager
+	url = https://github.com/bioconductor/biocdockermanager
+	shallow = true
+[submodule "HCAMatrixBrowser"]
+	path = HCAMatrixBrowser
+	url = https://github.com/bioconductor/hcamatrixbrowser
 	shallow = true
