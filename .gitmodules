@@ -75,6 +75,10 @@
 	path = GDSArray
 	url = https://github.com/bioconductor/gdsarray
 	shallow = true
+[submodule "GenomeInfoDb"]
+	path = GenomeInfoDb
+	url = https://github.com/bioconductor/genomeinfodb
+	shallow = true
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
 	url = https://github.com/bioconductor/genomicalignments
@@ -146,10 +150,6 @@
 [submodule "zlibbioc"]
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
-	shallow = true
-[submodule "GenomeInfoDb"]
-	path = GenomeInfoDb
-	url = https://github.com/bioconductor/genomeinfodb
 	shallow = true
 [submodule "BiocCheck"]
 	path = BiocCheck
