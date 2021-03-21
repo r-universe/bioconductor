@@ -19,13 +19,13 @@
 	path = AnnotationForge
 	url = https://github.com/bioconductor/annotationforge
 	shallow = true
-[submodule "AnnotationHub"]
-	path = AnnotationHub
-	url = https://github.com/bioconductor/annotationhub
-	shallow = true
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
+	shallow = true
+[submodule "BiocCheck"]
+	path = BiocCheck
+	url = https://github.com/bioconductor/bioccheck
 	shallow = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
@@ -82,14 +82,6 @@
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
 	url = https://github.com/bioconductor/genomicalignments
-	shallow = true
-[submodule "GenomicDataCommons"]
-	path = GenomicDataCommons
-	url = https://github.com/bioconductor/genomicdatacommons
-	shallow = true
-[submodule "GenomicFeatures"]
-	path = GenomicFeatures
-	url = https://github.com/bioconductor/genomicfeatures
 	shallow = true
 [submodule "GenomicRanges"]
 	path = GenomicRanges
@@ -151,9 +143,17 @@
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
 	shallow = true
-[submodule "BiocCheck"]
-	path = BiocCheck
-	url = https://github.com/bioconductor/bioccheck
+[submodule "AnnotationHub"]
+	path = AnnotationHub
+	url = https://github.com/bioconductor/annotationhub
+	shallow = true
+[submodule "GenomicDataCommons"]
+	path = GenomicDataCommons
+	url = https://github.com/bioconductor/genomicdatacommons
+	shallow = true
+[submodule "GenomicFeatures"]
+	path = GenomicFeatures
+	url = https://github.com/bioconductor/genomicfeatures
 	shallow = true
 [submodule "HCABrowser"]
 	path = HCABrowser
