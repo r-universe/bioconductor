@@ -19,6 +19,10 @@
 	path = AnnotationForge
 	url = https://github.com/bioconductor/annotationforge
 	shallow = true
+[submodule "AnnotationHub"]
+	path = AnnotationHub
+	url = https://github.com/bioconductor/annotationhub
+	shallow = true
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
@@ -26,6 +30,10 @@
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/bioconductor/bioccheck
+	shallow = true
+[submodule "BiocDockerManager"]
+	path = BiocDockerManager
+	url = https://github.com/bioconductor/biocdockermanager
 	shallow = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
@@ -143,10 +151,6 @@
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
 	shallow = true
-[submodule "AnnotationHub"]
-	path = AnnotationHub
-	url = https://github.com/bioconductor/annotationhub
-	shallow = true
 [submodule "GenomicDataCommons"]
 	path = GenomicDataCommons
 	url = https://github.com/bioconductor/genomicdatacommons
@@ -162,10 +166,6 @@
 [submodule "HCAExplorer"]
 	path = HCAExplorer
 	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-[submodule "BiocDockerManager"]
-	path = BiocDockerManager
-	url = https://github.com/bioconductor/biocdockermanager
 	shallow = true
 [submodule "HCAMatrixBrowser"]
 	path = HCAMatrixBrowser
