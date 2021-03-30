@@ -27,6 +27,14 @@
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
 	shallow = true
+[submodule "BiocCheck"]
+	path = BiocCheck
+	url = https://github.com/bioconductor/bioccheck
+	shallow = true
+[submodule "BiocDockerManager"]
+	path = BiocDockerManager
+	url = https://github.com/bioconductor/biocdockermanager
+	shallow = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
 	url = https://github.com/bioconductor/biocfilecache
@@ -82,10 +90,6 @@
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
 	url = https://github.com/bioconductor/genomicalignments
-	shallow = true
-[submodule "GenomicDataCommons"]
-	path = GenomicDataCommons
-	url = https://github.com/bioconductor/genomicdatacommons
 	shallow = true
 [submodule "GenomicFeatures"]
 	path = GenomicFeatures
@@ -151,9 +155,9 @@
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
 	shallow = true
-[submodule "BiocCheck"]
-	path = BiocCheck
-	url = https://github.com/bioconductor/bioccheck
+[submodule "GenomicDataCommons"]
+	path = GenomicDataCommons
+	url = https://github.com/bioconductor/genomicdatacommons
 	shallow = true
 [submodule "HCABrowser"]
 	path = HCABrowser
@@ -162,10 +166,6 @@
 [submodule "HCAExplorer"]
 	path = HCAExplorer
 	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-[submodule "BiocDockerManager"]
-	path = BiocDockerManager
-	url = https://github.com/bioconductor/biocdockermanager
 	shallow = true
 [submodule "HCAMatrixBrowser"]
 	path = HCAMatrixBrowser
