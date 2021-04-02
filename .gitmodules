@@ -91,6 +91,10 @@
 	path = GenomicAlignments
 	url = https://github.com/bioconductor/genomicalignments
 	shallow = true
+[submodule "GenomicDataCommons"]
+	path = GenomicDataCommons
+	url = https://github.com/bioconductor/genomicdatacommons
+	shallow = true
 [submodule "GenomicFeatures"]
 	path = GenomicFeatures
 	url = https://github.com/bioconductor/genomicfeatures
@@ -154,10 +158,6 @@
 [submodule "zlibbioc"]
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
-	shallow = true
-[submodule "GenomicDataCommons"]
-	path = GenomicDataCommons
-	url = https://github.com/bioconductor/genomicdatacommons
 	shallow = true
 [submodule "HCABrowser"]
 	path = HCABrowser
