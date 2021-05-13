@@ -1,0 +1,170 @@
+[
+  {
+    "package": "BiocManager",
+    "oncran": true
+  },
+  {
+    "package": "AnnotationDbi",
+    "oncran": true
+  },
+  {
+    "package": "AnnotationFilter",
+    "oncran": true
+  },
+  {
+    "package": "AnnotationForge",
+    "oncran": true
+  },
+  {
+    "package": "AnnotationHub",
+    "oncran": true
+  },
+  {
+    "package": "Biobase",
+    "oncran": true
+  },
+  {
+    "package": "BiocCheck",
+    "oncran": true
+  },
+  {
+    "package": "BiocDockerManager",
+    "oncran": true
+  },
+  {
+    "package": "BiocFileCache",
+    "oncran": true
+  },
+  {
+    "package": "BiocGenerics",
+    "oncran": true
+  },
+  {
+    "package": "BiocIO",
+    "oncran": true
+  },
+  {
+    "package": "BiocParallel",
+    "oncran": true
+  },
+  {
+    "package": "BiocStyle",
+    "oncran": true
+  },
+  {
+    "package": "biocViews",
+    "oncran": true
+  },
+  {
+    "package": "Biostrings",
+    "oncran": true
+  },
+  {
+    "package": "BSgenome",
+    "oncran": true
+  },
+  {
+    "package": "DelayedArray",
+    "oncran": true
+  },
+  {
+    "package": "DelayedDataFrame",
+    "oncran": true
+  },
+  {
+    "package": "ExperimentHub",
+    "oncran": true
+  },
+  {
+    "package": "GDSArray",
+    "oncran": true
+  },
+  {
+    "package": "GenomeInfoDb",
+    "oncran": true
+  },
+  {
+    "package": "GenomicAlignments",
+    "oncran": true
+  },
+  {
+    "package": "GenomicDataCommons",
+    "oncran": true
+  },
+  {
+    "package": "GenomicFeatures",
+    "oncran": true
+  },
+  {
+    "package": "GenomicRanges",
+    "oncran": true
+  },
+  {
+    "package": "HDF5Array",
+    "oncran": true
+  },
+  {
+    "package": "IRanges",
+    "oncran": true
+  },
+  {
+    "package": "MatrixGenerics",
+    "oncran": true
+  },
+  {
+    "package": "RaggedExperiment",
+    "oncran": true
+  },
+  {
+    "package": "Rhtslib",
+    "oncran": true
+  },
+  {
+    "package": "Rsamtools",
+    "oncran": true
+  },
+  {
+    "package": "S4Vectors",
+    "oncran": true
+  },
+  {
+    "package": "SplicingGraphs",
+    "oncran": true
+  },
+  {
+    "package": "SQLDataFrame",
+    "oncran": true
+  },
+  {
+    "package": "SummarizedExperiment",
+    "oncran": true
+  },
+  {
+    "package": "Summix",
+    "oncran": true
+  },
+  {
+    "package": "VariantExperiment",
+    "oncran": true
+  },
+  {
+    "package": "XVector",
+    "oncran": true
+  },
+  {
+    "package": "zlibbioc",
+    "oncran": true
+  },
+  {
+    "package": "HCABrowser",
+    "oncran": true
+  },
+  {
+    "package": "HCAExplorer",
+    "oncran": true
+  },
+  {
+    "package": "HCAMatrixBrowser",
+    "oncran": true
+  }
+]
