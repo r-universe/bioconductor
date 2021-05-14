@@ -4,167 +4,126 @@
     "oncran": true
   },
   {
-    "package": "AnnotationDbi",
-    "oncran": true
+    "package": "AnnotationDbi"
   },
   {
-    "package": "AnnotationFilter",
-    "oncran": true
+    "package": "AnnotationFilter"
   },
   {
-    "package": "AnnotationForge",
-    "oncran": true
+    "package": "AnnotationForge"
   },
   {
-    "package": "AnnotationHub",
-    "oncran": true
+    "package": "AnnotationHub"
   },
   {
-    "package": "Biobase",
-    "oncran": true
+    "package": "Biobase"
   },
   {
-    "package": "BiocCheck",
-    "oncran": true
+    "package": "BiocCheck"
   },
   {
-    "package": "BiocDockerManager",
-    "oncran": true
+    "package": "BiocDockerManager"
   },
   {
-    "package": "BiocFileCache",
-    "oncran": true
+    "package": "BiocFileCache"
   },
   {
-    "package": "BiocGenerics",
-    "oncran": true
+    "package": "BiocGenerics"
   },
   {
-    "package": "BiocIO",
-    "oncran": true
+    "package": "BiocIO"
   },
   {
-    "package": "BiocParallel",
-    "oncran": true
+    "package": "BiocParallel"
   },
   {
-    "package": "BiocStyle",
-    "oncran": true
+    "package": "BiocStyle"
   },
   {
-    "package": "biocViews",
-    "oncran": true
+    "package": "biocViews"
   },
   {
-    "package": "Biostrings",
-    "oncran": true
+    "package": "Biostrings"
   },
   {
-    "package": "BSgenome",
-    "oncran": true
+    "package": "BSgenome"
   },
   {
-    "package": "DelayedArray",
-    "oncran": true
+    "package": "DelayedArray"
   },
   {
-    "package": "DelayedDataFrame",
-    "oncran": true
+    "package": "DelayedDataFrame"
   },
   {
-    "package": "ExperimentHub",
-    "oncran": true
+    "package": "ExperimentHub"
   },
   {
-    "package": "GDSArray",
-    "oncran": true
+    "package": "GDSArray"
   },
   {
-    "package": "GenomeInfoDb",
-    "oncran": true
+    "package": "GenomeInfoDb"
   },
   {
-    "package": "GenomicAlignments",
-    "oncran": true
+    "package": "GenomicAlignments"
   },
   {
-    "package": "GenomicDataCommons",
-    "oncran": true
+    "package": "GenomicDataCommons"
   },
   {
-    "package": "GenomicFeatures",
-    "oncran": true
+    "package": "GenomicFeatures"
   },
   {
-    "package": "GenomicRanges",
-    "oncran": true
+    "package": "GenomicRanges"
   },
   {
-    "package": "HDF5Array",
-    "oncran": true
+    "package": "HDF5Array"
   },
   {
-    "package": "IRanges",
-    "oncran": true
+    "package": "IRanges"
   },
   {
-    "package": "MatrixGenerics",
-    "oncran": true
+    "package": "MatrixGenerics"
   },
   {
-    "package": "RaggedExperiment",
-    "oncran": true
+    "package": "RaggedExperiment"
   },
   {
-    "package": "Rhtslib",
-    "oncran": true
+    "package": "Rhtslib"
   },
   {
-    "package": "Rsamtools",
-    "oncran": true
+    "package": "Rsamtools"
   },
   {
-    "package": "S4Vectors",
-    "oncran": true
+    "package": "S4Vectors"
   },
   {
-    "package": "SplicingGraphs",
-    "oncran": true
+    "package": "SplicingGraphs"
   },
   {
-    "package": "SQLDataFrame",
-    "oncran": true
+    "package": "SQLDataFrame"
   },
   {
-    "package": "SummarizedExperiment",
-    "oncran": true
+    "package": "SummarizedExperiment"
   },
   {
-    "package": "Summix",
-    "oncran": true
+    "package": "Summix"
   },
   {
-    "package": "VariantExperiment",
-    "oncran": true
+    "package": "VariantExperiment"
   },
   {
-    "package": "XVector",
-    "oncran": true
+    "package": "XVector"
   },
   {
-    "package": "zlibbioc",
-    "oncran": true
+    "package": "zlibbioc"
   },
   {
-    "package": "HCABrowser",
-    "oncran": true
+    "package": "HCABrowser"
   },
   {
-    "package": "HCAExplorer",
-    "oncran": true
+    "package": "HCAExplorer"
   },
   {
-    "package": "HCAMatrixBrowser",
-    "oncran": true
+    "package": "HCAMatrixBrowser"
   }
 ]
