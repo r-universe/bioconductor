@@ -79,6 +79,9 @@
     "package": "HDF5Array"
   },
   {
+    "package": "HubPub"
+  },
+  {
     "package": "IRanges"
   },
   {
