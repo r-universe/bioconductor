@@ -119,14 +119,5 @@
   },
   {
     "package": "zlibbioc"
-  },
-  {
-    "package": "HCABrowser"
-  },
-  {
-    "package": "HCAExplorer"
-  },
-  {
-    "package": "HCAMatrixBrowser"
   }
 ]

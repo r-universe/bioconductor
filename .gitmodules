@@ -203,18 +203,3 @@
 	url = https://github.com/bioconductor/zlibbioc
 	shallow = true
 	registered = true
-[submodule "HCABrowser"]
-	path = HCABrowser
-	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-	registered = true
-[submodule "HCAExplorer"]
-	path = HCAExplorer
-	url = https://github.com/bioconductor/hcabrowser
-	shallow = true
-	registered = true
-[submodule "HCAMatrixBrowser"]
-	path = HCAMatrixBrowser
-	url = https://github.com/bioconductor/hcamatrixbrowser
-	shallow = true
-	registered = true
