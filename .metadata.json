@@ -4,34 +4,13 @@
     "oncran": true
   },
   {
-    "package": "AnnotationDbi"
-  },
-  {
     "package": "AnnotationFilter"
-  },
-  {
-    "package": "AnnotationForge"
-  },
-  {
-    "package": "AnnotationHub"
-  },
-  {
-    "package": "Biobase"
   },
   {
     "package": "BiocCheck"
   },
   {
-    "package": "BiocDockerManager"
-  },
-  {
     "package": "BiocFileCache"
-  },
-  {
-    "package": "BiocGenerics"
-  },
-  {
-    "package": "BiocIO"
   },
   {
     "package": "BiocParallel"
@@ -40,52 +19,16 @@
     "package": "BiocStyle"
   },
   {
-    "package": "biocViews"
-  },
-  {
-    "package": "Biostrings"
-  },
-  {
-    "package": "BSgenome"
-  },
-  {
-    "package": "DelayedArray"
-  },
-  {
     "package": "DelayedDataFrame"
-  },
-  {
-    "package": "ExperimentHub"
   },
   {
     "package": "GDSArray"
   },
   {
-    "package": "GenomeInfoDb"
-  },
-  {
-    "package": "GenomicAlignments"
-  },
-  {
     "package": "GenomicDataCommons"
   },
   {
-    "package": "GenomicFeatures"
-  },
-  {
-    "package": "GenomicRanges"
-  },
-  {
-    "package": "HDF5Array"
-  },
-  {
-    "package": "HubPub"
-  },
-  {
-    "package": "IRanges"
-  },
-  {
-    "package": "MatrixGenerics"
+    "package": "HCABrowser"
   },
   {
     "package": "RaggedExperiment"
@@ -94,27 +37,9 @@
     "package": "Rhtslib"
   },
   {
-    "package": "Rsamtools"
-  },
-  {
-    "package": "S4Vectors"
-  },
-  {
-    "package": "SplicingGraphs"
-  },
-  {
     "package": "SQLDataFrame"
   },
   {
-    "package": "SummarizedExperiment"
-  },
-  {
     "package": "VariantExperiment"
-  },
-  {
-    "package": "XVector"
-  },
-  {
-    "package": "zlibbioc"
   }
 ]
