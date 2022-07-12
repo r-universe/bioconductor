@@ -17,29 +17,5 @@
   },
   {
     "package": "BiocStyle"
-  },
-  {
-    "package": "DelayedDataFrame"
-  },
-  {
-    "package": "GDSArray"
-  },
-  {
-    "package": "GenomicDataCommons"
-  },
-  {
-    "package": "HCABrowser"
-  },
-  {
-    "package": "RaggedExperiment"
-  },
-  {
-    "package": "Rhtslib"
-  },
-  {
-    "package": "SQLDataFrame"
-  },
-  {
-    "package": "VariantExperiment"
   }
 ]
