@@ -33,3 +33,43 @@
 	url = https://github.com/bioconductor/biocstyle
 	shallow = true
 	registered = true
+[submodule "DelayedDataFrame"]
+	path = DelayedDataFrame
+	url = https://github.com/bioconductor/delayeddataframe
+	shallow = true
+	registered = true
+[submodule "GDSArray"]
+	path = GDSArray
+	url = https://github.com/bioconductor/gdsarray
+	shallow = true
+	registered = true
+[submodule "GenomicDataCommons"]
+	path = GenomicDataCommons
+	url = https://github.com/bioconductor/genomicdatacommons
+	shallow = true
+	registered = true
+[submodule "HCABrowser"]
+	path = HCABrowser
+	url = https://github.com/bioconductor/hcabrowser
+	shallow = true
+	registered = true
+[submodule "RaggedExperiment"]
+	path = RaggedExperiment
+	url = https://github.com/bioconductor/raggedexperiment
+	shallow = true
+	registered = true
+[submodule "Rhtslib"]
+	path = Rhtslib
+	url = https://github.com/bioconductor/rhtslib
+	shallow = true
+	registered = true
+[submodule "SQLDataFrame"]
+	path = SQLDataFrame
+	url = https://github.com/bioconductor/sqldataframe
+	shallow = true
+	registered = true
+[submodule "VariantExperiment"]
+	path = VariantExperiment
+	url = https://github.com/bioconductor/variantexperiment
+	shallow = true
+	registered = true
