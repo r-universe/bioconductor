@@ -8,9 +8,29 @@
 	url = https://github.com/bioconductor/biocmanager
 	shallow = true
 	registered = true
+[submodule "AnnotationDbi"]
+	path = AnnotationDbi
+	url = https://github.com/bioconductor/annotationdbi
+	shallow = true
+	registered = true
 [submodule "AnnotationFilter"]
 	path = AnnotationFilter
 	url = https://github.com/bioconductor/annotationfilter
+	shallow = true
+	registered = true
+[submodule "AnnotationForge"]
+	path = AnnotationForge
+	url = https://github.com/bioconductor/annotationforge
+	shallow = true
+	registered = true
+[submodule "AnnotationHub"]
+	path = AnnotationHub
+	url = https://github.com/bioconductor/annotationhub
+	shallow = true
+	registered = true
+[submodule "Biobase"]
+	path = Biobase
+	url = https://github.com/bioconductor/biobase
 	shallow = true
 	registered = true
 [submodule "BiocCheck"]
@@ -18,9 +38,24 @@
 	url = https://github.com/bioconductor/bioccheck
 	shallow = true
 	registered = true
+[submodule "BiocDockerManager"]
+	path = BiocDockerManager
+	url = https://github.com/bioconductor/biocdockermanager
+	shallow = true
+	registered = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
 	url = https://github.com/bioconductor/biocfilecache
+	shallow = true
+	registered = true
+[submodule "BiocGenerics"]
+	path = BiocGenerics
+	url = https://github.com/bioconductor/biocgenerics
+	shallow = true
+	registered = true
+[submodule "BiocIO"]
+	path = BiocIO
+	url = https://github.com/bioconductor/biocio
 	shallow = true
 	registered = true
 [submodule "BiocParallel"]
@@ -33,9 +68,34 @@
 	url = https://github.com/bioconductor/biocstyle
 	shallow = true
 	registered = true
+[submodule "biocViews"]
+	path = biocViews
+	url = https://github.com/bioconductor/biocviews
+	shallow = true
+	registered = true
+[submodule "Biostrings"]
+	path = Biostrings
+	url = https://github.com/bioconductor/biostrings
+	shallow = true
+	registered = true
+[submodule "BSgenome"]
+	path = BSgenome
+	url = https://github.com/bioconductor/bsgenome
+	shallow = true
+	registered = true
+[submodule "DelayedArray"]
+	path = DelayedArray
+	url = https://github.com/bioconductor/delayedarray
+	shallow = true
+	registered = true
 [submodule "DelayedDataFrame"]
 	path = DelayedDataFrame
 	url = https://github.com/bioconductor/delayeddataframe
+	shallow = true
+	registered = true
+[submodule "ExperimentHub"]
+	path = ExperimentHub
+	url = https://github.com/bioconductor/experimenthub
 	shallow = true
 	registered = true
 [submodule "GDSArray"]
@@ -43,14 +103,49 @@
 	url = https://github.com/bioconductor/gdsarray
 	shallow = true
 	registered = true
+[submodule "GenomeInfoDb"]
+	path = GenomeInfoDb
+	url = https://github.com/bioconductor/genomeinfodb
+	shallow = true
+	registered = true
+[submodule "GenomicAlignments"]
+	path = GenomicAlignments
+	url = https://github.com/bioconductor/genomicalignments
+	shallow = true
+	registered = true
 [submodule "GenomicDataCommons"]
 	path = GenomicDataCommons
 	url = https://github.com/bioconductor/genomicdatacommons
 	shallow = true
 	registered = true
-[submodule "HCABrowser"]
-	path = HCABrowser
-	url = https://github.com/bioconductor/hcabrowser
+[submodule "GenomicFeatures"]
+	path = GenomicFeatures
+	url = https://github.com/bioconductor/genomicfeatures
+	shallow = true
+	registered = true
+[submodule "GenomicRanges"]
+	path = GenomicRanges
+	url = https://github.com/bioconductor/genomicranges
+	shallow = true
+	registered = true
+[submodule "HDF5Array"]
+	path = HDF5Array
+	url = https://github.com/bioconductor/hdf5array
+	shallow = true
+	registered = true
+[submodule "HubPub"]
+	path = HubPub
+	url = https://github.com/bioconductor/hubpub
+	shallow = true
+	registered = true
+[submodule "IRanges"]
+	path = IRanges
+	url = https://github.com/bioconductor/iranges
+	shallow = true
+	registered = true
+[submodule "MatrixGenerics"]
+	path = MatrixGenerics
+	url = https://github.com/bioconductor/matrixgenerics
 	shallow = true
 	registered = true
 [submodule "RaggedExperiment"]
@@ -63,13 +158,53 @@
 	url = https://github.com/bioconductor/rhtslib
 	shallow = true
 	registered = true
+[submodule "Rsamtools"]
+	path = Rsamtools
+	url = https://github.com/bioconductor/rsamtools
+	shallow = true
+	registered = true
+[submodule "S4Vectors"]
+	path = S4Vectors
+	url = https://github.com/bioconductor/s4vectors
+	shallow = true
+	registered = true
+[submodule "SplicingGraphs"]
+	path = SplicingGraphs
+	url = https://github.com/bioconductor/splicinggraphs
+	shallow = true
+	registered = true
 [submodule "SQLDataFrame"]
 	path = SQLDataFrame
 	url = https://github.com/bioconductor/sqldataframe
 	shallow = true
 	registered = true
+[submodule "SummarizedExperiment"]
+	path = SummarizedExperiment
+	url = https://github.com/bioconductor/summarizedexperiment
+	shallow = true
+	registered = true
 [submodule "VariantExperiment"]
 	path = VariantExperiment
 	url = https://github.com/bioconductor/variantexperiment
+	shallow = true
+	registered = true
+[submodule "XVector"]
+	path = XVector
+	url = https://github.com/bioconductor/xvector
+	shallow = true
+	registered = true
+[submodule "zlibbioc"]
+	path = zlibbioc
+	url = https://github.com/bioconductor/zlibbioc
+	shallow = true
+	registered = true
+[submodule "HCABrowser"]
+	path = HCABrowser
+	url = https://github.com/bioconductor/hcabrowser
+	shallow = true
+	registered = true
+[submodule "HCAMatrixBrowser"]
+	path = HCAMatrixBrowser
+	url = https://github.com/bioconductor/hcamatrixbrowser
 	shallow = true
 	registered = true
