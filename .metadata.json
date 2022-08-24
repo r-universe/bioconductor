@@ -109,6 +109,9 @@
     "package": "SummarizedExperiment"
   },
   {
+    "package": "updateObject"
+  },
+  {
     "package": "VariantExperiment"
   },
   {
@@ -116,11 +119,5 @@
   },
   {
     "package": "zlibbioc"
-  },
-  {
-    "package": "HCABrowser"
-  },
-  {
-    "package": "HCAMatrixBrowser"
   }
 ]
