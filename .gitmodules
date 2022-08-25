@@ -38,6 +38,11 @@
 	shallow = true
 	branch = RELEASE_3_15
 	registered = true
+[submodule "BiocBaseUtils"]
+	path = BiocBaseUtils
+	url = https://github.com/bioconductor/biocbaseutils
+	shallow = true
+	registered = true
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/bioconductor/bioccheck

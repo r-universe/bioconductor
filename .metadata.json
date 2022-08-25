@@ -19,6 +19,9 @@
     "package": "Biobase"
   },
   {
+    "package": "BiocBaseUtils"
+  },
+  {
     "package": "BiocCheck"
   },
   {
