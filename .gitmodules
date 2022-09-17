@@ -181,40 +181,11 @@
 	shallow = true
 	branch = RELEASE_3_15
 	registered = true
-[submodule "RaggedExperiment"]
-	path = RaggedExperiment
-	url = https://github.com/bioconductor/raggedexperiment
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "Rhtslib"]
-	path = Rhtslib
-	url = https://github.com/bioconductor/rhtslib
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "Rsamtools"]
-	path = Rsamtools
-	url = https://github.com/bioconductor/rsamtools
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "S4Vectors"]
-	path = S4Vectors
-	url = https://github.com/bioconductor/s4vectors
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
 [submodule "SplicingGraphs"]
 	path = SplicingGraphs
 	url = https://github.com/bioconductor/splicinggraphs
 	shallow = true
 	branch = RELEASE_3_15
-	registered = true
-[submodule "SQLDataFrame"]
-	path = SQLDataFrame
-	url = https://github.com/bioconductor/sqldataframe
-	shallow = true
 	registered = true
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
@@ -227,21 +198,4 @@
 	url = https://github.com/bioconductor/updateobject
 	shallow = true
 	branch = RELEASE_3_15
-	registered = true
-[submodule "VariantExperiment"]
-	path = VariantExperiment
-	url = https://github.com/bioconductor/variantexperiment
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "XVector"]
-	path = XVector
-	url = https://github.com/bioconductor/xvector
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "zlibbioc"]
-	path = zlibbioc
-	url = https://github.com/bioconductor/zlibbioc
-	shallow = true
 	registered = true
