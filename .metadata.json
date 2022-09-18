@@ -88,15 +88,27 @@
     "package": "IRanges"
   },
   {
-    "package": "MatrixGenerics"
+    "package": "RaggedExperiment"
+  },
+  {
+    "package": "S4Vectors"
   },
   {
     "package": "SplicingGraphs"
   },
   {
-    "package": "SummarizedExperiment"
+    "package": "SQLDataFrame"
   },
   {
     "package": "updateObject"
+  },
+  {
+    "package": "VariantExperiment"
+  },
+  {
+    "package": "XVector"
+  },
+  {
+    "package": "zlibbioc"
   }
 ]
