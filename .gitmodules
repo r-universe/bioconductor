@@ -163,27 +163,9 @@
 	shallow = true
 	branch = RELEASE_3_15
 	registered = true
-[submodule "HubPub"]
-	path = HubPub
-	url = https://github.com/bioconductor/hubpub
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "IRanges"]
-	path = IRanges
-	url = https://github.com/bioconductor/iranges
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "RaggedExperiment"]
-	path = RaggedExperiment
-	url = https://github.com/bioconductor/raggedexperiment
-	shallow = true
-	branch = RELEASE_3_15
-	registered = true
-[submodule "S4Vectors"]
-	path = S4Vectors
-	url = https://github.com/bioconductor/s4vectors
+[submodule "Rsamtools"]
+	path = Rsamtools
+	url = https://github.com/bioconductor/rsamtools
 	shallow = true
 	branch = RELEASE_3_15
 	registered = true
@@ -192,11 +174,6 @@
 	url = https://github.com/bioconductor/splicinggraphs
 	shallow = true
 	branch = RELEASE_3_15
-	registered = true
-[submodule "SQLDataFrame"]
-	path = SQLDataFrame
-	url = https://github.com/bioconductor/sqldataframe
-	shallow = true
 	registered = true
 [submodule "updateObject"]
 	path = updateObject

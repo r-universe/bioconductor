@@ -82,22 +82,10 @@
     "package": "HDF5Array"
   },
   {
-    "package": "HubPub"
-  },
-  {
-    "package": "IRanges"
-  },
-  {
-    "package": "RaggedExperiment"
-  },
-  {
-    "package": "S4Vectors"
+    "package": "Rsamtools"
   },
   {
     "package": "SplicingGraphs"
-  },
-  {
-    "package": "SQLDataFrame"
   },
   {
     "package": "updateObject"
