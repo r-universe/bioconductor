@@ -103,6 +103,9 @@
     "package": "S4Vectors"
   },
   {
+    "package": "ShortRead"
+  },
+  {
     "package": "SplicingGraphs"
   },
   {

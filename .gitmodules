@@ -173,6 +173,11 @@
 	url = https://github.com/bioconductor/s4vectors
 	shallow = true
 	registered = true
+[submodule "ShortRead"]
+	path = ShortRead
+	url = https://github.com/bioconductor/shortread
+	shallow = true
+	registered = true
 [submodule "SplicingGraphs"]
 	path = SplicingGraphs
 	url = https://github.com/bioconductor/splicinggraphs
