@@ -22,9 +22,6 @@
     "package": "BiocBaseUtils"
   },
   {
-    "package": "BiocCheck"
-  },
-  {
     "package": "BiocDockerManager"
   },
   {
@@ -82,9 +79,6 @@
     "package": "HDF5Array"
   },
   {
-    "package": "HubPub"
-  },
-  {
     "package": "IRanges"
   },
   {
@@ -125,5 +119,11 @@
   },
   {
     "package": "zlibbioc"
+  },
+  {
+    "package": "BiocCheck"
+  },
+  {
+    "package": "HubPub"
   }
 ]

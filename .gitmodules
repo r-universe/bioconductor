@@ -38,11 +38,6 @@
 	url = https://github.com/bioconductor/biocbaseutils
 	shallow = true
 	registered = true
-[submodule "BiocCheck"]
-	path = BiocCheck
-	url = https://github.com/bioconductor/bioccheck
-	shallow = true
-	registered = true
 [submodule "BiocDockerManager"]
 	path = BiocDockerManager
 	url = https://github.com/bioconductor/biocdockermanager
@@ -138,11 +133,6 @@
 	url = https://github.com/bioconductor/hdf5array
 	shallow = true
 	registered = true
-[submodule "HubPub"]
-	path = HubPub
-	url = https://github.com/bioconductor/hubpub
-	shallow = true
-	registered = true
 [submodule "IRanges"]
 	path = IRanges
 	url = https://github.com/bioconductor/iranges
@@ -211,5 +201,15 @@
 [submodule "zlibbioc"]
 	path = zlibbioc
 	url = https://github.com/bioconductor/zlibbioc
+	shallow = true
+	registered = true
+[submodule "BiocCheck"]
+	path = BiocCheck
+	url = https://github.com/bioconductor/bioccheck
+	shallow = true
+	registered = true
+[submodule "HubPub"]
+	path = HubPub
+	url = https://github.com/bioconductor/hubpub
 	shallow = true
 	registered = true
