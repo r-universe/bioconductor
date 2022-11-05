@@ -107,6 +107,7 @@
 	path = GenomeInfoDb
 	url = https://github.com/bioconductor/genomeinfodb
 	shallow = true
+	branch = RELEASE_3_16
 	registered = true
 [submodule "GenomicAlignments"]
 	path = GenomicAlignments
