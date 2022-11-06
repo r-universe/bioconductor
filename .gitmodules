@@ -134,6 +134,11 @@
 	url = https://github.com/bioconductor/hdf5array
 	shallow = true
 	registered = true
+[submodule "HubPub"]
+	path = HubPub
+	url = https://github.com/bioconductor/hubpub
+	shallow = true
+	registered = true
 [submodule "IRanges"]
 	path = IRanges
 	url = https://github.com/bioconductor/iranges
@@ -207,10 +212,5 @@
 [submodule "BiocCheck"]
 	path = BiocCheck
 	url = https://github.com/bioconductor/bioccheck
-	shallow = true
-	registered = true
-[submodule "HubPub"]
-	path = HubPub
-	url = https://github.com/bioconductor/hubpub
 	shallow = true
 	registered = true

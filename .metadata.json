@@ -79,6 +79,9 @@
     "package": "HDF5Array"
   },
   {
+    "package": "HubPub"
+  },
+  {
     "package": "IRanges"
   },
   {
@@ -122,8 +125,5 @@
   },
   {
     "package": "BiocCheck"
-  },
-  {
-    "package": "HubPub"
   }
 ]
