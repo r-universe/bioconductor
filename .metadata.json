@@ -22,6 +22,9 @@
     "package": "BiocBaseUtils"
   },
   {
+    "package": "BiocCheck"
+  },
+  {
     "package": "BiocDockerManager"
   },
   {
@@ -122,8 +125,5 @@
   },
   {
     "package": "zlibbioc"
-  },
-  {
-    "package": "BiocCheck"
   }
 ]
