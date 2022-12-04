@@ -36,7 +36,6 @@
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
 	shallow = true
-	branch = RELEASE_3_16
 	registered = true
 [submodule "BiocBaseUtils"]
 	path = BiocBaseUtils
