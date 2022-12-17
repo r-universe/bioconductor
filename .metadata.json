@@ -115,6 +115,9 @@
     "package": "SummarizedExperiment"
   },
   {
+    "package": "UniProt.ws"
+  },
+  {
     "package": "updateObject"
   },
   {

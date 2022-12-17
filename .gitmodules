@@ -230,6 +230,12 @@
 	shallow = true
 	branch = RELEASE_3_16
 	registered = true
+[submodule "UniProt.ws"]
+	path = UniProt.ws
+	url = https://github.com/bioconductor/uniprot.ws
+	shallow = true
+	branch = RELEASE_3_16
+	registered = true
 [submodule "updateObject"]
 	path = updateObject
 	url = https://github.com/bioconductor/updateobject
