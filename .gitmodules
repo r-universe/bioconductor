@@ -18,6 +18,7 @@
 	path = AnnotationFilter
 	url = https://github.com/bioconductor/annotationfilter
 	shallow = true
+	branch = RELEASE_3_16
 	registered = true
 [submodule "AnnotationForge"]
 	path = AnnotationForge
