@@ -24,13 +24,11 @@
 	path = AnnotationForge
 	url = https://github.com/bioconductor/annotationforge
 	shallow = true
-	branch = RELEASE_3_16
 	registered = true
 [submodule "AnnotationHub"]
 	path = AnnotationHub
 	url = https://github.com/bioconductor/annotationhub
 	shallow = true
-	branch = RELEASE_3_16
 	registered = true
 [submodule "Biobase"]
 	path = Biobase
