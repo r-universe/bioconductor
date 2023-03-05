@@ -68,6 +68,11 @@
 	shallow = true
 	branch = RELEASE_3_16
 	registered = true
+[submodule "BiocHubsShiny"]
+	path = BiocHubsShiny
+	url = https://github.com/bioconductor/biochubsshiny
+	shallow = true
+	registered = true
 [submodule "BiocIO"]
 	path = BiocIO
 	url = https://github.com/bioconductor/biocio
