@@ -1,49 +1,33 @@
 [
   {
-    "package": "AnnotationForge"
-  },
-  {
-    "package": "BiocStyle"
-  },
-  {
-    "package": "Rsamtools"
-  },
-  {
-    "package": "zlibbioc"
+    "package": "AnnotationDbi"
   },
   {
     "package": "AnnotationFilter"
   },
   {
+    "package": "AnnotationForge"
+  },
+  {
     "package": "AnnotationHub"
-  },
-  {
-    "package": "BiocDockerManager"
-  },
-  {
-    "package": "biocViews"
-  },
-  {
-    "package": "ExperimentHub"
   },
   {
     "package": "Biobase"
   },
   {
-    "package": "ShortRead"
-  },
-  {
-    "package": "AnnotationDbi"
-  },
-  {
-    "package": "BiocManager",
-    "oncran": true
-  },
-  {
-    "package": "RaggedExperiment"
-  },
-  {
     "package": "BiocBaseUtils"
+  },
+  {
+    "package": "BiocCheck"
+  },
+  {
+    "package": "BiocDockerManager"
+  },
+  {
+    "package": "BiocFileCache"
+  },
+  {
+    "package": "BiocGenerics"
   },
   {
     "package": "BiocHubsShiny"
@@ -52,43 +36,44 @@
     "package": "BiocIO"
   },
   {
-    "package": "UniProt.ws"
+    "package": "BiocManager",
+    "oncran": true
   },
   {
-    "package": "BiocCheck"
+    "package": "BiocParallel"
   },
   {
-    "package": "SQLDataFrame"
+    "package": "BiocStyle"
   },
   {
-    "package": "VariantExperiment"
+    "package": "biocViews"
   },
   {
-    "package": "DelayedDataFrame"
+    "package": "Biostrings"
   },
   {
-    "package": "SplicingGraphs"
+    "package": "BSgenome"
   },
   {
     "package": "DelayedArray"
   },
   {
+    "package": "DelayedDataFrame"
+  },
+  {
+    "package": "ExperimentHub"
+  },
+  {
+    "package": "GDSArray"
+  },
+  {
     "package": "GenomeInfoDb"
   },
   {
-    "package": "IRanges"
-  },
-  {
-    "package": "XVector"
-  },
-  {
-    "package": "Rhtslib"
-  },
-  {
-    "package": "S4Vectors"
-  },
-  {
     "package": "GenomicAlignments"
+  },
+  {
+    "package": "GenomicDataCommons"
   },
   {
     "package": "GenomicFeatures"
@@ -97,39 +82,54 @@
     "package": "GenomicRanges"
   },
   {
-    "package": "BSgenome"
-  },
-  {
     "package": "HDF5Array"
-  },
-  {
-    "package": "BiocGenerics"
-  },
-  {
-    "package": "Biostrings"
-  },
-  {
-    "package": "SummarizedExperiment"
-  },
-  {
-    "package": "updateObject"
-  },
-  {
-    "package": "BiocFileCache"
-  },
-  {
-    "package": "GenomicDataCommons"
-  },
-  {
-    "package": "BiocParallel"
-  },
-  {
-    "package": "MatrixGenerics"
   },
   {
     "package": "HubPub"
   },
   {
-    "package": "GDSArray"
+    "package": "IRanges"
+  },
+  {
+    "package": "MatrixGenerics"
+  },
+  {
+    "package": "RaggedExperiment"
+  },
+  {
+    "package": "Rhtslib"
+  },
+  {
+    "package": "Rsamtools"
+  },
+  {
+    "package": "S4Vectors"
+  },
+  {
+    "package": "ShortRead"
+  },
+  {
+    "package": "SplicingGraphs"
+  },
+  {
+    "package": "SQLDataFrame"
+  },
+  {
+    "package": "SummarizedExperiment"
+  },
+  {
+    "package": "UniProt.ws"
+  },
+  {
+    "package": "updateObject"
+  },
+  {
+    "package": "VariantExperiment"
+  },
+  {
+    "package": "XVector"
+  },
+  {
+    "package": "zlibbioc"
   }
 ]
