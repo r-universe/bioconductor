@@ -109,6 +109,11 @@
 	shallow = true
 	branch = RELEASE_3_16
 	registered = true
+[submodule "BSgenomeForge"]
+	path = BSgenomeForge
+	url = https://github.com/bioconductor/bsgenomeforge
+	shallow = true
+	registered = true
 [submodule "DelayedArray"]
 	path = DelayedArray
 	url = https://github.com/bioconductor/delayedarray
