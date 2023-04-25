@@ -210,6 +210,11 @@
 	shallow = true
 	branch = RELEASE_3_16
 	registered = true
+[submodule "S4Arrays"]
+	path = S4Arrays
+	url = https://github.com/bioconductor/s4arrays
+	shallow = true
+	registered = true
 [submodule "S4Vectors"]
 	path = S4Vectors
 	url = https://github.com/bioconductor/s4vectors
@@ -221,6 +226,11 @@
 	url = https://github.com/bioconductor/shortread
 	shallow = true
 	branch = RELEASE_3_16
+	registered = true
+[submodule "SparseArray"]
+	path = SparseArray
+	url = https://github.com/bioconductor/sparsearray
+	shallow = true
 	registered = true
 [submodule "SplicingGraphs"]
 	path = SplicingGraphs
