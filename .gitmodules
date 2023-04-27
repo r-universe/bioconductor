@@ -45,12 +45,6 @@
 	shallow = true
 	branch = RELEASE_3_16
 	registered = true
-[submodule "BiocDockerManager"]
-	path = BiocDockerManager
-	url = https://github.com/bioconductor/biocdockermanager
-	shallow = true
-	branch = RELEASE_3_16
-	registered = true
 [submodule "BiocFileCache"]
 	path = BiocFileCache
 	url = https://github.com/bioconductor/biocfilecache
