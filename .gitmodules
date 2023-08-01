@@ -18,6 +18,14 @@
 	path = AnnotationHub
 	url = https://github.com/bioconductor/annotationhub
 	branch = RELEASE_3_17
+[submodule "BSgenome"]
+	path = BSgenome
+	url = https://github.com/bioconductor/bsgenome
+	branch = RELEASE_3_17
+[submodule "BSgenomeForge"]
+	path = BSgenomeForge
+	url = https://github.com/bioconductor/bsgenomeforge
+	branch = RELEASE_3_17
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/bioconductor/biobase
@@ -57,21 +65,9 @@
 	path = BiocStyle
 	url = https://github.com/bioconductor/biocstyle
 	branch = RELEASE_3_17
-[submodule "biocViews"]
-	path = biocViews
-	url = https://github.com/bioconductor/biocviews
-	branch = RELEASE_3_17
 [submodule "Biostrings"]
 	path = Biostrings
 	url = https://github.com/bioconductor/biostrings
-	branch = RELEASE_3_17
-[submodule "BSgenome"]
-	path = BSgenome
-	url = https://github.com/bioconductor/bsgenome
-	branch = RELEASE_3_17
-[submodule "BSgenomeForge"]
-	path = BSgenomeForge
-	url = https://github.com/bioconductor/bsgenomeforge
 	branch = RELEASE_3_17
 [submodule "DelayedArray"]
 	path = DelayedArray
@@ -145,6 +141,10 @@
 	path = S4Vectors
 	url = https://github.com/bioconductor/s4vectors
 	branch = RELEASE_3_17
+[submodule "SQLDataFrame"]
+	path = SQLDataFrame
+	url = https://github.com/bioconductor/sqldataframe
+	branch = RELEASE_3_17
 [submodule "ShortRead"]
 	path = ShortRead
 	url = https://github.com/bioconductor/shortread
@@ -157,10 +157,6 @@
 	path = SplicingGraphs
 	url = https://github.com/bioconductor/splicinggraphs
 	branch = RELEASE_3_17
-[submodule "SQLDataFrame"]
-	path = SQLDataFrame
-	url = https://github.com/bioconductor/sqldataframe
-	branch = RELEASE_3_17
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
 	url = https://github.com/bioconductor/summarizedexperiment
@@ -169,10 +165,6 @@
 	path = UniProt.ws
 	url = https://github.com/bioconductor/uniprot.ws
 	branch = RELEASE_3_17
-[submodule "updateObject"]
-	path = updateObject
-	url = https://github.com/bioconductor/updateobject
-	branch = RELEASE_3_17
 [submodule "VariantExperiment"]
 	path = VariantExperiment
 	url = https://github.com/bioconductor/variantexperiment
@@ -180,6 +172,14 @@
 [submodule "XVector"]
 	path = XVector
 	url = https://github.com/bioconductor/xvector
+	branch = RELEASE_3_17
+[submodule "biocViews"]
+	path = biocViews
+	url = https://github.com/bioconductor/biocviews
+	branch = RELEASE_3_17
+[submodule "updateObject"]
+	path = updateObject
+	url = https://github.com/bioconductor/updateobject
 	branch = RELEASE_3_17
 [submodule "zlibbioc"]
 	path = zlibbioc
