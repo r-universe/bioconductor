@@ -121,6 +121,10 @@
 	path = MatrixGenerics
 	url = https://github.com/bioconductor/matrixgenerics
 	branch = RELEASE_3_18
+[submodule "Organism.dplyr"]
+	path = Organism.dplyr
+	url = https://github.com/bioconductor/organism.dplyr
+	branch = RELEASE_3_18
 [submodule "RaggedExperiment"]
 	path = RaggedExperiment
 	url = https://github.com/bioconductor/raggedexperiment
