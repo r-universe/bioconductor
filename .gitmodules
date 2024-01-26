@@ -177,6 +177,10 @@
 	path = XVector
 	url = https://github.com/bioconductor/xvector
 	branch = RELEASE_3_18
+[submodule "basilisk"]
+	path = basilisk
+	url = https://github.com/bioconductor/basilisk
+	branch = RELEASE_3_18
 [submodule "biocViews"]
 	path = biocViews
 	url = https://github.com/bioconductor/biocviews
