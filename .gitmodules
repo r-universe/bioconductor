@@ -185,6 +185,9 @@
 	path = biocViews
 	url = https://github.com/bioconductor/biocviews
 	branch = RELEASE_3_18
+[submodule "txdbmaker"]
+	path = txdbmaker
+	url = https://github.com/bioconductor/txdbmaker
 [submodule "updateObject"]
 	path = updateObject
 	url = https://github.com/bioconductor/updateobject
