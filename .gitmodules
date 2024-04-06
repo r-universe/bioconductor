@@ -165,6 +165,9 @@
 	path = SummarizedExperiment
 	url = https://github.com/bioconductor/summarizedexperiment
 	branch = RELEASE_3_18
+[submodule "UCSC.utils"]
+	path = UCSC.utils
+	url = https://github.com/bioconductor/ucsc.utils
 [submodule "UniProt.ws"]
 	path = UniProt.ws
 	url = https://github.com/bioconductor/uniprot.ws
