@@ -188,6 +188,9 @@
 	path = biocViews
 	url = https://github.com/bioconductor/biocviews
 	branch = RELEASE_3_18
+[submodule "pwalign"]
+	path = pwalign
+	url = https://github.com/bioconductor/pwalign
 [submodule "txdbmaker"]
 	path = txdbmaker
 	url = https://github.com/bioconductor/txdbmaker
