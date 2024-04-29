@@ -117,6 +117,10 @@
 	path = IRanges
 	url = https://github.com/bioconductor/iranges
 	branch = RELEASE_3_18
+[submodule "KEGGREST"]
+	path = KEGGREST
+	url = https://github.com/bioconductor/keggrest
+	branch = RELEASE_3_18
 [submodule "MatrixGenerics"]
 	path = MatrixGenerics
 	url = https://github.com/bioconductor/matrixgenerics
