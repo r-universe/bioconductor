@@ -9,7 +9,3 @@
 	path = S4Vectors
 	url = https://github.com/bioconductor/s4vectors
 	branch = RELEASE_3_22
-[submodule "ShortRead"]
-	path = ShortRead
-	url = https://github.com/bioconductor/shortread
-	branch = RELEASE_3_22
