@@ -5,7 +5,3 @@
 [submodule "BiocManager"]
 	path = BiocManager
 	url = https://github.com/bioconductor/biocmanager
-[submodule "S4Vectors"]
-	path = S4Vectors
-	url = https://github.com/bioconductor/s4vectors
-	branch = RELEASE_3_22
